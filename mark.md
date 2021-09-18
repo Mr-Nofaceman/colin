@@ -6,7 +6,7 @@
 下午上课只有四个人
 周洋是'光头强'
 
-...c
+```c
 	#include<stdio.h>
 
 	int main()
@@ -15,4 +15,4 @@
 		printf("thefirst markdown");
 		return 0;
 	}
-...
+```
